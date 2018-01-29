@@ -1,3 +1,3 @@
 # hello-world
  Test for the GitHub repositary
- Step2 Create a Branch 
+ It's my first time to learn how to use GitHub 
